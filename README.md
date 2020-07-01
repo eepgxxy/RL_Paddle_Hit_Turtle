@@ -18,4 +18,4 @@ The second training is based on the trained model from the first training with s
 
 ![eval rewards](https://github.com/eepgxxy/RL_Paddle_Save_turtle/blob/master/eval.png)
 
-![result](https://github.com/eepgxxy/RL_Paddle_Save_turtle/blob/master/result.gif)
+![result](https://github.com/eepgxxy/RL_Paddle_Save_turtle/blob/master/result_3.gif)
